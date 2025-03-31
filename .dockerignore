@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Tests
+test/
+*_test.go
+
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+*.swp
+
+README.md
+Problem.md
